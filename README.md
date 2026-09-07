@@ -142,7 +142,7 @@ Spare MAC Selection
 Updated Routing Address
     ↓
 Workload Redirected
-```
+
 
 ### 5. Spare MAC
 
@@ -167,7 +167,7 @@ An output buffer provides an additional cycle of storage for the selected result
 
 The complete recovery sequence is:
 
-```text
+text
 Normal Operation
        |
        v
@@ -196,7 +196,7 @@ Verify Output
        |
        v
 Return to Normal Operation
-```
+
 
 Under nominal conditions, the documented recovery sequence completes within **8 clock cycles**.
 
